@@ -12,19 +12,16 @@
     <p>
       🌱 Explore my repositories to see real-world applications of analytics, machine learning, and dashboard development.
     </p>
+      - 🎓 **Skills:**  
+   Data Science | Artificial Intelligence | Data Visualization | Python | Power BI | DW&BI  
+   Statistics | Machine Learning 
     </td>
     <!-- Image Section -->
     <td style="width: 40%; text-align: center;">
-      <img src="https://i.pinimg.com/736x/64/77/f8/6477f8d4414599163c38074fd9caf901.jpg" width="1000" alt="Profile GIF">
+      <img src="https://i.pinimg.com/736x/64/77/f8/6477f8d4414599163c38074fd9caf901.jpg" width="500" alt="Profile GIF">
     </td>
   </tr>
 </table>
-
-
----
-- 🎓 **Skills:**  
-   Data Science | Artificial Intelligence | Data Visualization | Python | Power BI | DW&BI  
-   Statistics | Machine Learning 
 ---
 <h2 align="center">🚀 Let's Connect!</h2>
 
