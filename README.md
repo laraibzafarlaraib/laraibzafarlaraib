@@ -1,8 +1,8 @@
 # Hi there! 👋
 
-I'm **[Your Name]**, a data science student passionate about transforming data into actionable insights and solving real-world problems with technology. 🌟  
+I'm **Laraib Zafar**, a data science student passionate about transforming data into actionable insights and solving real-world problems with technology. 🌟  
 
-💡 I enjoy creating intuitive visualizations, crafting efficient machine learning models, and diving into datasets to uncover hidden stories.  
+💡 I enjoy creating intuitive visualizations, crafting efficient machine-learning models, and diving into datasets to uncover hidden stories.  
 
 ---
 
@@ -24,8 +24,8 @@ I'm **[Your Name]**, a data science student passionate about transforming data i
 ## 🚀 Let's Connect and Collaborate!
 - 📫 **Reach Me At:**  
    - 📧 laraibzafarlaraib@gmail.com
-   - 💼 [LinkedIn]([https://www.linkedin.com/in/laraib-zafar-5465a5267/])  
-   - 📊 [Kaggle]([https://www.kaggle.com/laraibzafarlaraib])
+   - 💼 https://www.linkedin.com/in/laraib-zafar-5465a5267/
+   - 📊 https://www.kaggle.com/laraibzafarlaraib
 
 👨‍💻 Let's innovate, learn, and create impactful solutions together!  
 
