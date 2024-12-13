@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**laraibzafarlaraib/laraibzafarlaraib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 # Hi there! 👋
 
 I'm Laraib Zafar, a data science student passionate about transforming data into actionable insights.
@@ -12,7 +11,8 @@ I'm Laraib Zafar, a data science student passionate about transforming data into
 - 📫 **How to Reach Me:** [Your Email] | [LinkedIn](https://linkedin.com/in/yourprofile)
 
 🚀 Let's collaborate and make something awesome together!
-
+<!--
+**laraibzafarlaraib/laraibzafarlaraib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
