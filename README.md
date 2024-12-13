@@ -10,18 +10,13 @@
 
   <!-- Text Section -->
   <div style="flex: 2; padding-left: 20px;">
-    <h1>Hi, I'm [Your Name]! 👋</h1>
     <p>
-      🚀 Data Science Enthusiast passionate about transforming data into meaningful insights.  
-      🎓 Skilled in Python, Machine Learning, AI, and Data Visualization.  
-      🌱 Currently exploring Deep Learning and Cloud Computing.  
-      💼 Let's connect on <a href="https://linkedin.com/in/yourprofile" target="_blank">LinkedIn</a> or <a href="https://kaggle.com/your-kaggle-profile" target="_blank">Kaggle</a>.  
+     💡 I am passionate about transforming data into actionable insights and solving real-world problems with technology. Also, I enjoy creating intuitive visualizations, crafting efficient machine-learning models, and diving into datasets to uncover hidden stories.🌱 Explore my repositories to see real-world applications of analytics, machine learning, and dashboarddevelopment.
+
     </p>
   </div>
 </div>
 
-💡 I am passionate about transforming data into actionable insights and solving real-world problems with technology. Also, I enjoy creating intuitive visualizations, crafting efficient machine-learning models, and diving into datasets to uncover hidden stories.  
-🌱 Explore my repositories to see real-world applications of analytics, machine learning, and dashboard development.
 
 ---
 - 🎓 **Skills:**  
