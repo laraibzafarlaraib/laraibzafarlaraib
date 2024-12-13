@@ -1,22 +1,21 @@
 <h1 align="center">Hi 👋 I'm Laraib Zafar!</h1>
 
 <h3 align="center">A Data Science student🌟</h3>
-<table>
-  <tr>
-    <!-- Text Section -->
-    <td style="width: 60%; vertical-align: top;">
-      <p>
-        💡 I am passionate about transforming data into actionable insights and solving real-world problems with technology.  
-        I enjoy creating intuitive visualizations, crafting efficient machine-learning models, and diving into datasets to uncover hidden stories. 🌱  
-        Explore my repositories to see real-world applications of analytics, machine learning, and dashboard development.
-      </p>
-    </td>
-    <!-- Image Section -->
-    <td style="width: 40%; text-align: center;">
-      <img src="https://i.pinimg.com/736x/64/77/f8/6477f8d4414599163c38074fd9caf901.jpg" width="250" alt="Profile GIF">
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <!-- Text Section -->
+  <div style="flex: 1; padding-right: 20px;">
+    <p>
+      💡 I am passionate about transforming data into actionable insights and solving real-world problems with technology.  
+      Also, I enjoy creating intuitive visualizations, crafting efficient machine-learning models, and diving into datasets to uncover hidden stories. 🌱  
+      Explore my repositories to see real-world applications of analytics, machine learning, and dashboard development.
+    </p>
+  </div>
+
+  <!-- GIF Section -->
+  <div style="flex: 1; text-align: center;">
+    <img src="https://i.pinimg.com/736x/64/77/f8/6477f8d4414599163c38074fd9caf901.jpg" width="250">
+  </div>
+</div>
 
 
 ---
