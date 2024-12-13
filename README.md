@@ -1,8 +1,7 @@
-# Hi there! 👋
+# Hi 👋 I'm **Laraib Zafar**
+a data science student🌟
 
-I'm **Laraib Zafar**, a data science student passionate about transforming data into actionable insights and solving real-world problems with technology. 🌟  
-
-💡 I enjoy creating intuitive visualizations, crafting efficient machine-learning models, and diving into datasets to uncover hidden stories.  
+💡 I am passionate about transforming data into actionable insights and solving real-world problems with technology. Also, I enjoy creating intuitive visualizations, crafting efficient machine-learning models, and diving into datasets to uncover hidden stories.  
 
 ---
 
