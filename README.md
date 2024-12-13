@@ -5,7 +5,7 @@
 <div style="display: flex; align-items: center;">
   <!-- GIF Section -->
   <div style="flex: 1; text-align: center;">
-    <img src="https://media.giphy.com/media/tHIRLHtNwxpjIFqPdV/giphy.gif?cid=790b7611n8h6yo3xy084p98prhf5tkk5soj9p5bkrch7728o&ep=v1_gifs_trending&rid=giphy.gif&ct=g" alt="GIF" width="250">
+    <img src="https://i.pinimg.com/736x/64/77/f8/6477f8d4414599163c38074fd9caf901.jpg" width="250">
   </div>
 
   <!-- Text Section -->
