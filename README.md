@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 # Hi there! 👋
 
 I'm Laraib Zafar, a data science student passionate about transforming data into actionable insights.
@@ -8,7 +5,7 @@ I'm Laraib Zafar, a data science student passionate about transforming data into
 - 🎓 **Skills:** Data Science, AI, Data Visualization, Python, Power BI, DW&BI, and more.
 - 📊 **Projects:** Check out my repositories showcasing my work in analytics and machine learning.
 - 🌱 **Currently Learning:** Advanced Machine Learning, Deep Learning, and Cloud Computing.
-- 📫 **How to Reach Me:** [Your Email] | [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📫 **How to Reach Me:** laraibzafarlaraib@gmail.com | linkedin.com/in/laraib-zafar-5465a5267 | https://www.kaggle.com/laraibzafarlaraib
 
 🚀 Let's collaborate and make something awesome together!
 <!--
