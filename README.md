@@ -6,11 +6,12 @@
   <tr>
     <!-- Text Section -->
     <td style="width: 60%; vertical-align: top;">
-      <p>
-        💡 I am passionate about transforming data into actionable insights and solving real-world problems with technology.  
-        I enjoy creating intuitive visualizations, crafting efficient machine-learning models, and diving into datasets to uncover hidden stories. 🌱  
-        Explore my repositories to see real-world applications of analytics, machine learning, and dashboard development.
-      </p>
+    <p>
+      💡 I am passionate about transforming data into actionable insights and solving real-world problems with technology.
+    </p>
+    <p>
+      🌱 Explore my repositories to see real-world applications of analytics, machine learning, and dashboard development.
+    </p>
     </td>
     <!-- Image Section -->
     <td style="width: 40%; text-align: center;">
