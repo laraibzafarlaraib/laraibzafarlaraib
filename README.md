@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Laraib Zafar!</h1>
 
-<h3 align="center">A Data Science student🌟</h3>
+<h3 align="center">🌟A Data Science student🌟</h3>
 
 <table>
   <tr>
