@@ -3,17 +3,18 @@
 <h3 align="center">A Data Science student🌟</h3>
 
 <div style="display: flex; align-items: center;">
+  <!-- Text Section -->
+  <div style="flex: 2; padding-right: 20px;">
+    <p>
+      💡 I am passionate about transforming data into actionable insights and solving real-world problems with technology.  
+      Also, I enjoy creating intuitive visualizations, crafting efficient machine-learning models, and diving into datasets to uncover hidden stories. 🌱  
+      Explore my repositories to see real-world applications of analytics, machine learning, and dashboard development.
+    </p>
+  </div>
+
   <!-- GIF Section -->
   <div style="flex: 1; text-align: center;">
     <img src="https://i.pinimg.com/736x/64/77/f8/6477f8d4414599163c38074fd9caf901.jpg" width="250">
-  </div>
-
-  <!-- Text Section -->
-  <div style="flex: 2; padding-left: 20px;">
-    <p>
-     💡 I am passionate about transforming data into actionable insights and solving real-world problems with technology. Also, I enjoy creating intuitive visualizations, crafting efficient machine-learning models, and diving into datasets to uncover hidden stories.🌱 Explore my repositories to see real-world applications of analytics, machine learning, and dashboarddevelopment.
-
-    </p>
   </div>
 </div>
 
