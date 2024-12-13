@@ -10,14 +10,6 @@
    Data Science | Artificial Intelligence | Data Visualization | Python | Power BI | DW&BI  
    Statistics | Machine Learning 
 ---
-
-## 🚀 Let's Connect and Collaborate!
-- 📫 **Reach Me At:**  
-   - 📧 laraibzafarlaraib@gmail.com
-   - 💼 https://www.linkedin.com/in/laraib-zafar-5465a5267/
-   - 📊 https://www.kaggle.com/laraibzafarlaraib
-
-👨‍💻 Let's innovate, learn, and create impactful solutions together!  
 <h2 align="center">🚀 Let's Connect!</h2>
 
 <p align="center">
