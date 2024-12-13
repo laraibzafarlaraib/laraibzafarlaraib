@@ -2,6 +2,16 @@
 
 <!--
 **laraibzafarlaraib/laraibzafarlaraib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋
+
+I'm Laraib Zafar, a data science student passionate about transforming data into actionable insights.
+
+- 🎓 **Skills:** Data Science, AI, Data Visualization, Python, Power BI, DW&BI, and more.
+- 📊 **Projects:** Check out my repositories showcasing my work in analytics and machine learning.
+- 🌱 **Currently Learning:** Advanced Machine Learning, Deep Learning, and Cloud Computing.
+- 📫 **How to Reach Me:** [Your Email] | [LinkedIn](https://linkedin.com/in/yourprofile)
+
+🚀 Let's collaborate and make something awesome together!
 
 Here are some ideas to get you started:
 
